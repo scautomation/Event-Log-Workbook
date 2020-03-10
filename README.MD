@@ -9,7 +9,7 @@ Log Analytics agent installed on desired server(s)
 Event Logs collection
 
 ### Related Blog Post
-
+https://www.systemcenterautomation.com/2020/03/azure-monitor-event-log-workbook/
 
 ### Screen Grabs
 ![image](./images/2020-03-10_10-31-28.png)
