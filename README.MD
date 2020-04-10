@@ -19,6 +19,9 @@ https://www.systemcenterautomation.com/2020/03/azure-monitor-event-log-workbook/
 ![image](./images/2020-03-09_14-52-30.png)
 ![image](./images/2020-03-09_14-52-16.png)
 
+### Notes
+You may have to change the Subscription parameter from default to all subscriptions. I've noticed importing some workbooks that it may switch it from All to Default.
+
 
 
 
